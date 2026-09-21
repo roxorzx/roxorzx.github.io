@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /_astro/
 
-Sitemap: https://r0x0rzx.github.io/sitemap-index.xml
+Sitemap: https://roxorz.github.io/sitemap-index.xml
